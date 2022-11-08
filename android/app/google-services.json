@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088790569529",
+    "project_id": "chatapp-muk",
+    "storage_bucket": "chatapp-muk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088790569529:android:1318b5a2b6ed566cc6a3e8",
+        "android_client_info": {
+          "package_name": "com.appsbymuk.gupshup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088790569529-a528lucc3ob9mnteo6u220comk17b9g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsbymuk.gupshup",
+            "certificate_hash": "b4d732684667e07de5c78db35a1a96069510f688"
+          }
+        },
+        {
+          "client_id": "1088790569529-1blst22k2u5f1nhuc037t7n7071o608b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-5OomXKOOBBmCg8NFkwUlFD1W--FSoqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088790569529-1blst22k2u5f1nhuc037t7n7071o608b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
